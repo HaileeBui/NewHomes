@@ -3,6 +3,13 @@ A Web based application project for dog adoption.
 
 This is a platform for those who are unable to take care of their dogs. They want to look for a responsible and caring owner who they can keep in touch after adoption. Besides, the website also helps people to find dog with low-budget.
 
+Language: JavaScript
+Design pattern: MVC
+
+User: able to register, login, like, search, see all dogs available and dog's description. Users need to log in to see owner's info
+Owner: able to post, delete post, change user's info, send message to other users or admin (and all user's right)
+Admin: able to delete user (and all user's right)
+
 Require dependencies:
     "bcryptjs": "^2.4.3",
     "body-parser": "^1.19.0",
@@ -23,9 +30,4 @@ Require dependencies:
     "serializejson": "^1.0.1",
     "sharp": "^0.23.4"
 
-.env: 
-    DB_HOST=10.114.32.144
-    DB_USER=root
-    DB_PASS=sacombank
-    DB_NAME=dbproject
 
