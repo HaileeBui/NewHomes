@@ -3,7 +3,7 @@ A Web based application project for dog adoption.
 
 This is a platform for those who are unable to take care of their dogs. They want to look for a responsible and caring owner who they can keep in touch after adoption. Besides, the website also helps people to find dog with low-budget.
 
-Language: JavaScript
+Language: JavaScript </br>
 Design pattern: MVC
 
 User: able to register, login, like, search, see all dogs available and dog's description. Users need to log in to see owner's info
